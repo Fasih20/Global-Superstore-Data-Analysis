@@ -42,16 +42,13 @@ The dataset contains worldwide sales transactions from a superstore, including:
 ## 📸 Sample Visualizations
 
 ### Customer Purchase Frequency vs Revenue
-![Frequency vs Revenue](plots/freq_vs_revenue.png)
-
-### Top Countries by Sales
-![Top Sales Countries](plots/top_sales_countries.png)
+![Frequency vs Revenue](plot/Customer_Purchase_Frequency_vs_Revenue.png)
 
 ### Daily Average Price vs Sales
 ![Price vs Sales](plots/price_vs_sales.png)
 
-### Average Delivery Time
-![Delivery Time](plots/avg_delivery_time.png)
+### Top 5 Profit-Making Sub-Categories per Year
+![Delivery Time](plots/newplot.png)
 
 ---
 
@@ -69,14 +66,10 @@ The dataset contains worldwide sales transactions from a superstore, including:
     ```bash
     jupyter notebook GlobalSuperstore_Analysis.ipynb
 
-💡 Insights
+## 💡 Insights
 
-    1. Frequent customers do not always translate into higher profit margins.
-        ![Alt Text](plot\Customer Frequency vs Profit Margin.png)
-        ![Alt Text](plot\Customer Purchase Frequency vs Revenue.png)
+1. Frequent customers do not always translate into higher profit margins.
 
-    2. Phones and Copiers are consistently the most profitable sub-categories.
-        ![Alt Text](plot\newplot.png)
+2. Phones and Copiers are consistently the most profitable sub-categories.
 
-    3. Lower average prices often correlate with higher sales volume.
-        ![Alt Text](plots/freq_vs_revenue.png)
+3. Lower average prices often correlate with higher sales volume.
