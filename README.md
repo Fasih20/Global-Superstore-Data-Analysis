@@ -45,10 +45,10 @@ The dataset contains worldwide sales transactions from a superstore, including:
 ![Frequency vs Revenue](plot/Customer_Purchase_Frequency_vs_Revenue.png)
 
 ### Daily Average Price vs Sales
-![Price vs Sales](plots/price_vs_sales.png)
+![Price vs Sales](plot/price_vs_sales.png)
 
 ### Top 5 Profit-Making Sub-Categories per Year
-![Delivery Time](plots/newplot.png)
+![Delivery Time](plot/newplot.png)
 
 ---
 
@@ -56,7 +56,7 @@ The dataset contains worldwide sales transactions from a superstore, including:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/global-superstore-analysis.git
+   git clone https://github.com/Fasih20/Global-Superstore-Data-Analysis.git
 
 2. Install dependencies:
     ```bash
@@ -64,7 +64,7 @@ The dataset contains worldwide sales transactions from a superstore, including:
 
 3. Run the Jupyter Notebook:
     ```bash
-    jupyter notebook GlobalSuperstore_Analysis.ipynb
+    jupyter notebook Global_Superstore_Sales.ipynb
 
 ## 💡 Insights
 
